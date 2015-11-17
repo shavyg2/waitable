@@ -1,6 +1,6 @@
 {
   "name": "waitable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Allows the use of async/await on nodes err,success callbacks",
   "main": "index.js",
   "scripts": {
