@@ -1,13 +1,23 @@
 {
   "name": "waitable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Allows the use of async/await on nodes err,success callbacks",
   "main": "index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register"
   },
   "author": "Shavauhn Gabay",
-  "keywords":["es6","es7","async","await","Promise","Generators","async/await","yield","A+"],
+  "keywords": [
+    "es6",
+    "es7",
+    "async",
+    "await",
+    "Promise",
+    "Generators",
+    "async/await",
+    "yield",
+    "A+"
+  ],
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.1.21",
