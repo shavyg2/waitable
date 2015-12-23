@@ -33,4 +33,3 @@ module.exports = exports = function (func) {
 };
 
 exports.config = config;
-
